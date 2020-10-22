@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  British Museum
+title:  Week1- British Museum
 date:   2020-10-22 20:27:13 +0800
 categories: jekyll update
 ---
@@ -21,6 +21,4 @@ For thousands of years, ancient Egyptian civilization has been buried in history
 I also saw a lot of Chinese cultural relics online, such as porcelain, calligraphy and painting. These exhibits are not available in China. As a Chinese, these also remind me of the heavy history. I also hope that some exhibits can return to the embrace of the motherland.
 
 *After arriving in London, I hope to see these cultrual relics with my own eyes.*
-
-[previous assignment](/media/British-Museum.html)
 
