@@ -1,0 +1,12 @@
+---
+layout: page
+title: popular bands
+---
+
+<h2>fans over 2000</h2><br >
+{% for band in site.data.metal_bands_2017 %} 
+    {% assign band_fans = band.fans | plus: 0 %}
+        {% if band_fans > 2000 %}
+            <p>{{ band.band_name}}:{{band.fans}}</p>
+        {% endif %}
+{% endfor %}

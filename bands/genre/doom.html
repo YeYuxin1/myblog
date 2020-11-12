@@ -1,0 +1,10 @@
+---
+layout: page
+title: doom
+---
+
+{% for band in site.data.metal_bands_2017 %}
+   {% if band.style contains "doom" %}
+       <p>{{ band.band_name }}:  {{ band.style }}</p >
+   {% endif %}
+{% endfor %}

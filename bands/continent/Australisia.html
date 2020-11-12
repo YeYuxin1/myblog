@@ -1,0 +1,18 @@
+---
+layout: page
+title: Australisia
+---
+<h2>Australia</h2>
+{% for band in site.data.metal_bands_2017 %}
+   {% if band.origin contains "Australia" %}
+       <p>{{ band.band_name }}</p >
+   {% endif %}
+{% endfor %}
+
+<h2>New Zealand</h2>
+{% for band in site.data.metal_bands_2017 %}
+   {% if band.origin contains "New Zealand" %}
+       <p>{{ band.band_name }}</p >
+    {% endif %}
+{% endfor %}
+          
