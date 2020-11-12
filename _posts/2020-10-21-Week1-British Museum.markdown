@@ -12,7 +12,7 @@ categories: jekyll update
 
 ![img](/media/2.png)
 
-For thousands of years, ancient Egyptian civilization has been buried in history. This virtual tour has opened its mysterious veil for us. Here, we can see huge sculptures, beautiful murals, one of the earliest human words, etc., which are really shocking. I don't know whether I operated inproperly, I didn't see the detailed introduction of these exhibits on the website. This is indeed a pity.
+For thousands of years, ancient Egyptian civilization has been buried in history. This virtual tour has opened its mysterious veil for us. Here, we can see huge sculptures, beautiful murals, one of the earliest human words, etc., which are really shocking. I don't know whether I operated inproperly, I didn't see the detailed introduction of these exhibits on the website. This is indeed a pity!
 
 **[Collecttions of China](https://www.britishmuseum.org/collection/search?place=China)**
 
